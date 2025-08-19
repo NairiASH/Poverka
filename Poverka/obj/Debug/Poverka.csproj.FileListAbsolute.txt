@@ -1,0 +1,59 @@
+C:\Poverka\Poverka\bin\Debug\Poverka.exe.config
+C:\Poverka\Poverka\bin\Debug\Poverka.exe
+C:\Poverka\Poverka\bin\Debug\Poverka.pdb
+C:\Poverka\Poverka\obj\Debug\Poverka.csproj.AssemblyReference.cache
+C:\Poverka\Poverka\obj\Debug\Poverka.csproj.SuggestedBindingRedirects.cache
+C:\Poverka\Poverka\obj\Debug\Poverka.Properties.Resources.resources
+C:\Poverka\Poverka\obj\Debug\Poverka.csproj.GenerateResource.cache
+C:\Poverka\Poverka\obj\Debug\Poverka.csproj.CoreCompileInputs.cache
+C:\Poverka\Poverka\obj\Debug\Poverka.exe
+C:\Poverka\Poverka\obj\Debug\Poverka.pdb
+C:\Poverka\Poverka\bin\Debug\S7.Net.dll
+C:\Poverka\Poverka\bin\Debug\System.Buffers.dll
+C:\Poverka\Poverka\bin\Debug\System.Memory.dll
+C:\Poverka\Poverka\bin\Debug\System.Numerics.Vectors.dll
+C:\Poverka\Poverka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Poverka\Poverka\bin\Debug\S7.Net.xml
+C:\Poverka\Poverka\bin\Debug\System.Buffers.xml
+C:\Poverka\Poverka\bin\Debug\System.Memory.xml
+C:\Poverka\Poverka\bin\Debug\System.Numerics.Vectors.xml
+C:\Poverka\Poverka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Poverka\Poverka\obj\Debug\Poverka.csproj.CopyComplete
+C:\Poverka\Poverka\bin\Debug\Sharp7.dll
+C:\Poverka\Poverka\bin\Debug\Sharp7.pdb
+C:\Poverka\Poverka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Poverka\Poverka\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Poverka\Poverka\bin\Debug\Npgsql.dll
+C:\Poverka\Poverka\bin\Debug\System.Collections.Immutable.dll
+C:\Poverka\Poverka\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Poverka\Poverka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Poverka\Poverka\bin\Debug\System.Text.Json.dll
+C:\Poverka\Poverka\bin\Debug\System.Threading.Channels.dll
+C:\Poverka\Poverka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Poverka\Poverka\bin\Debug\System.ValueTuple.dll
+C:\Poverka\Poverka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Poverka\Poverka\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Poverka\Poverka\bin\Debug\Npgsql.xml
+C:\Poverka\Poverka\bin\Debug\System.Collections.Immutable.xml
+C:\Poverka\Poverka\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Poverka\Poverka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Poverka\Poverka\bin\Debug\System.Text.Json.xml
+C:\Poverka\Poverka\bin\Debug\System.Threading.Channels.xml
+C:\Poverka\Poverka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Poverka\Poverka\bin\Debug\System.ValueTuple.xml
+C:\Poverka\Poverka\obj\Debug\Poverka.Second.resources
+C:\Poverka\Poverka\obj\Debug\Poverka.Third.resources
+C:\Poverka\Poverka\obj\Debug\Poverka.Fourth.resources
+C:\Poverka\Poverka\obj\Debug\Poverka.First.resources
+C:\Poverka\Poverka\obj\Debug\Poverka.Test.resources
+C:\Poverka\Poverka\bin\Debug\Reports\ВЗЛЕТ 420Л\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\взлет лайт М  52856-13\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\Мастерфлоу  31001-08\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\Мастерфлоу  31001-12\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\Мастерфлоу  73383-18\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\ПИТЕРФЛОУ 46814-11\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\ПИТЕРФЛОУ 66324-16\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\ПРЭМ 17858-06\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\ПРЭМ 17858-11\protocol_vnesh.rtf
+C:\Poverka\Poverka\bin\Debug\Reports\ПРЭМ 76327-19\protocol_vnesh.rtf
+C:\Poverka\Poverka\obj\Debug\Poverka.Reports_F.resources
