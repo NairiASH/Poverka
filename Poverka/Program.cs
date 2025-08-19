@@ -6,6 +6,8 @@ using System.Windows.Forms;
 
 namespace Poverka
 {
+
+
     internal static class Program
     {
         /// <summary>
@@ -16,7 +18,8 @@ namespace Poverka
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1()); //тест
+            Application.Run(new First());
         }
     }
 }
